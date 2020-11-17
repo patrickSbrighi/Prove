@@ -10,6 +10,13 @@ namespace Test
     {
         static void Main(string[] args)
         {
+            Scrivi();
+            Console.ReadKey();
+        }
+
+        private static void Scrivi()
+        {
+            Console.WriteLine("dfvbsivserbvsiepvrrv");
         }
     }
 }
